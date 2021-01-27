@@ -7,6 +7,7 @@ In this project I am building a program that will simulate the shopping checkout
 * C for the language
 * Dynamic Queue for the Data Structure
 * I/O Stream for managing input information of customers and output on files
+* Greedy algorithm
 
 ### Basic Instruction
 ##### Open Git Bash and go to the directory where you place all the files for this project
